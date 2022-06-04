@@ -1,3 +1,5 @@
+![avatar](https://avatars.githubusercontent.com/u/77153578?s=40&v=4)
+
 # _**Andreye <br/>Alexey**_
 
 ## **Contacts**
@@ -20,3 +22,11 @@ University.
 
 - completed the course Introduction-to-java.
 - English language level A1+.
+
+```
+public class Multiply {
+    public static Double multiply(Double a, Double b) {
+        return a * b;
+    }
+}
+```
