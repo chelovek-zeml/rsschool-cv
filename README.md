@@ -1,1 +1,1 @@
-https://github.com/chelovek-zeml/rsschool-cv/blob/gh-pages/cv.md
+https://chelovek-zeml.github.io/rsschool-cv/cv
