@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: rgb(61, 48, 33);
+  font-size: 24px;
+}
+
+.parent {
+  margin-left: 5%;
+  margin-top: 50px;
+  width: 80%;
+  background: #cdcdcd;
+  padding: 50px;
+}
+
+.header {
+  padding-left: 200px;
+  width: 800px;
+  height: 200px;
+  border: 1px solid black;
+  background: #b9b3b3;
+}
+
+.content {
+  padding-left: 200px;
+  width: 800px;
+  height: 1000px;
+  border: 1px solid black;
+  background: #dad7d7;
+}
+
+.footer {
+  padding-left: 200px;
+  width: 800px;
+  height: 200px;
+  border: 1px solid black;
+  background: #b9b3b3;
+}
+
+figure {
+  position: absolute;
+  top: 85px;
+  left: 80px;
+  float: left;
+  background: #979292;
+  border-radius: 3px;
+  padding: 1%;
+}
+
+h3 {
+  color: #4e4a4a;
+}
+
+.year {
+  margin: -70px 270px;
+}
+
+.icon {
+  margin: 10px 600px;
+}
