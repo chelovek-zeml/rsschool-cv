@@ -17,3 +17,18 @@ In the future I want to connect my work with IT. Responsible, non-confrontationa
 
 Higher technical education.\
 University.
+
+## **Skills**
+
+- completed the course Introduction-to-java.
+- English language level A1+.
+
+```
+public class Multiply {
+    public static Double multiply(Double a, Double b) {
+        return a * b;
+    }
+}
+```
+
+[My project.](https://github.com/chelovek-zeml/rsschool-cv/blob/gh-pages/cv.md)
